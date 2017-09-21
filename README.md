@@ -1,2 +1,2 @@
 # winsetup
-Help with setting up a new windows machine
+Installation script for a fresh windows box.
